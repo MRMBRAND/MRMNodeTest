@@ -1,0 +1,49 @@
+[
+  {
+    "name": "Shot of Goldschläger",
+    "description": "chilled liqueur with tiny, floating, gold flakes",
+    "category": "Cocktails"
+  },
+  {
+    "name": "Alabama Slammer",
+    "description": "sloe gin, Southern Comfort, amaretto, orange juice",
+    "category": "Cocktails"
+  },
+  {
+    "name": "Mai Tai",
+    "description": "light rum, orange curaçao, sour mix, pineapple juice, dark rum float",
+    "category": "Cocktails"
+  },
+  {
+  "name": "Long Island Iced Tea",
+  "description": "vodka, gin, rum, triple sec, sour mix, Coke",
+  "category": "Cocktails"
+  },
+  {
+    "name": "English Barleywine",
+    "description": "Despite its name, a Barleywine (or Barley Wine) is very much a beer, albeit a very strong and often intense beer! In fact, it's one of the strongest of the beer styles. Lively and fruity, sometimes sweet, sometimes bittersweet, but always alcoholic. A brew of this strength and complexity can be a challenge to the palate. Expect anything from an amber to dark brown colored beer, with aromas ranging from intense fruits to intense hops. Body is typically thick, alcohol will definitely be perceived, and flavors can range from dominant fruits to palate smacking, resiny hops.",
+    "category": "Beers"
+  },
+  {
+    "name": "English India Pale Ale",
+    "description": "First brewed in England and exported for the British troops in India during the late 1700s. To withstand the voyage, IPA's were basically tweaked Pale Ales that were, in comparison, much more malty, boasted a higher alcohol content and were well-hopped, as hops are a natural preservative. Historians believe that an IPA was then watered down for the troops, while officers and the elite would savor the beer at full strength. The English IPA has a lower alcohol due to taxation over the decades. The leaner the brew the less amount of malt there is and less need for a strong hop presence which would easily put the brew out of balance. Some brewers have tried to recreate the origianl IPA with strengths close to 8-9% abv.",
+    "category": "Beers"
+  },
+  {
+    "name": "Flanders Red Ale",
+    "description": "Flanders Reds are commonly referred to as the 'red' beers of West Flanders. Belgian Red Beers are typically light-bodied brews with reddish-brown colors. They are infamous for their distinct sharp, fruity, sour and tart flavors which are created by special yeast strains. Very complex beers, they are produced under the age old tradition of long-term cask aging in oak, and the blending of young and old beers.",
+    "category": "Beers"
+  },
+  {
+    "name": "Pinot Grigio",
+    "description": "Pinot Grigio is one of the world's most popular wines. It's also known by a few different names around the world, including 'Pinot Gris' in France 'Ruländer' in Germany."
+  },
+  {
+    "name": "Sauvignon Blanc",
+    "description": "The third most planted grape variety in California, Sauvignon Blanc may not have been featured in a movie but it is certainly one of the popular kids. Typically considered a warm weather wine, this dry white can be found all over the world."
+  },
+  {
+    "name": "Pinot Noir",
+    "description": "One wine took a hit from the movie 'Sideways' and it's infamous line about not drinking any Merlot. But Pinot Noir may have gotten a bit of a boost. The wine didn't get it's own notorious line from the film but it was mentioned favorably once or twice."
+  }
+]
